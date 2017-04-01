@@ -1,5 +1,5 @@
 # CleanNodejsReactProject
-A clean node server with react project to easy start off
+A clean template of node server with react project front end
 
 Setup:
 1. go to /react folder, ```npm run build```
